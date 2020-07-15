@@ -1,2 +1,2 @@
 # Hello-World-JR
-doing my first steps wiht Git and GitHub
+doing my first steps with Git and GitHub
